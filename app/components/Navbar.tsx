@@ -13,7 +13,6 @@ const Navbar = () => {
         <Link href="/">Accueil</Link>
         <Link href="/menu">Menu</Link>
         <Link href="/contact">contact</Link>
-        <Link href="">Accueil</Link>
       </div>
       <div className="text-xl md:font-bold flex-1 md:text-center">
         <Link href={"/"}>Massimo</Link>
